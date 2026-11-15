@@ -12,7 +12,7 @@
     {
       "binding": "PHOTOS",
       // Cloudflare → Storage & Databases → KV → Create → அதன் ID-ஐ இங்கே ஒட்டவும்
-      "id": "இங்கே_KV_ID_ஒட்டவும்"
+      "id": "8572784d803d4d04bb2e0a6c8b787ea3"
     }
   ]
 }
